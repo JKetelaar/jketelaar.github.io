@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm just another Application Developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an Application Developer that loves to play with new programming languages, tools, and frameworks. You often find me working on open-source projects, such as [Parabot](https://github.com/Parabot) or my [own repositories](https://github.com/JKetelaar).
+
+By trying to work with the most intuitive things in my free time and overengineering projects, I allow myself to build up enough knowledge to know what you should and shouldn't apply in a business project.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jeroen@ketelaar.me](mailto:jeroen@ketelaar.me)
