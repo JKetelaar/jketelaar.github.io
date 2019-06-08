@@ -17,6 +17,7 @@ avatar: https://s.gravatar.com/avatar/58c3bc998967ee324908a5cde7bf9a1e?s=500
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  email: jeroen@ketelaar.me
   github: jketelaar
   instagram: jeronimo078
   linkedin: jeroenketelaar
